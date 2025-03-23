@@ -2893,16 +2893,16 @@
         },
         {
             "name": "team-reflex/discord-php",
-            "version": "v10.4.0",
+            "version": "v10.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/discord-php/DiscordPHP.git",
-                "reference": "7e4c5a280cf61e02840d69b7970b4622902a5d2f"
+                "reference": "9ab9aa0eb970446b6c660f067499c8dd786e2621"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/discord-php/DiscordPHP/zipball/7e4c5a280cf61e02840d69b7970b4622902a5d2f",
-                "reference": "7e4c5a280cf61e02840d69b7970b4622902a5d2f",
+                "url": "https://api.github.com/repos/discord-php/DiscordPHP/zipball/9ab9aa0eb970446b6c660f067499c8dd786e2621",
+                "reference": "9ab9aa0eb970446b6c660f067499c8dd786e2621",
                 "shasum": ""
             },
             "require": {
@@ -2964,7 +2964,7 @@
                 "chat": "https://discord.gg/dphp",
                 "docs": "https://discord-php.github.io/DiscordPHP/",
                 "issues": "https://github.com/discord-php/DiscordPHP/issues",
-                "source": "https://github.com/discord-php/DiscordPHP/tree/v10.4.0",
+                "source": "https://github.com/discord-php/DiscordPHP/tree/v10.4.3",
                 "wiki": "https://github.com/discord-php/DiscordPHP/wiki"
             },
             "funding": [
@@ -2981,7 +2981,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-03-03T19:34:03+00:00"
+            "time": "2025-03-23T02:12:15+00:00"
         },
         {
             "name": "trafficcophp/bytebuffer",
