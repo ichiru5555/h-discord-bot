@@ -787,16 +787,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "3.8.1",
+            "version": "3.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "aef6ee73a77a66e404dd6540934a9ef1b3c855b4"
+                "reference": "10d85740180ecba7896c87e06a166e0c95a0e3b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/aef6ee73a77a66e404dd6540934a9ef1b3c855b4",
-                "reference": "aef6ee73a77a66e404dd6540934a9ef1b3c855b4",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/10d85740180ecba7896c87e06a166e0c95a0e3b6",
+                "reference": "10d85740180ecba7896c87e06a166e0c95a0e3b6",
                 "shasum": ""
             },
             "require": {
@@ -874,7 +874,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/3.8.1"
+                "source": "https://github.com/Seldaek/monolog/tree/3.9.0"
             },
             "funding": [
                 {
@@ -886,20 +886,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-05T17:15:07+00:00"
+            "time": "2025-03-24T10:02:05+00:00"
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.8.6",
+            "version": "3.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CarbonPHP/carbon.git",
-                "reference": "ff2f20cf83bd4d503720632ce8a426dc747bf7fd"
+                "reference": "6d16a8a015166fe54e22c042e0805c5363aef50d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/ff2f20cf83bd4d503720632ce8a426dc747bf7fd",
-                "reference": "ff2f20cf83bd4d503720632ce8a426dc747bf7fd",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/6d16a8a015166fe54e22c042e0805c5363aef50d",
+                "reference": "6d16a8a015166fe54e22c042e0805c5363aef50d",
                 "shasum": ""
             },
             "require": {
@@ -992,7 +992,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-20T17:33:38+00:00"
+            "time": "2025-03-27T12:57:33+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -2893,16 +2893,16 @@
         },
         {
             "name": "team-reflex/discord-php",
-            "version": "v10.4.3",
+            "version": "v10.4.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/discord-php/DiscordPHP.git",
-                "reference": "9ab9aa0eb970446b6c660f067499c8dd786e2621"
+                "reference": "4a809f6f747a6452998d094b09051f0f9ac43254"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/discord-php/DiscordPHP/zipball/9ab9aa0eb970446b6c660f067499c8dd786e2621",
-                "reference": "9ab9aa0eb970446b6c660f067499c8dd786e2621",
+                "url": "https://api.github.com/repos/discord-php/DiscordPHP/zipball/4a809f6f747a6452998d094b09051f0f9ac43254",
+                "reference": "4a809f6f747a6452998d094b09051f0f9ac43254",
                 "shasum": ""
             },
             "require": {
@@ -2913,7 +2913,7 @@
                 "ext-zlib": "*",
                 "monolog/monolog": "^2.1.1 || ^3.0",
                 "nesbot/carbon": "^2.38 || ^3.0",
-                "php": "^8.0",
+                "php": "^8.1.2",
                 "psr/simple-cache": "^1.0 || ^2.0 || ^3.0",
                 "react/async": "^4.0 || ^3.0",
                 "react/cache": "^0.5 || ^0.6 || ^1.0",
@@ -2964,7 +2964,7 @@
                 "chat": "https://discord.gg/dphp",
                 "docs": "https://discord-php.github.io/DiscordPHP/",
                 "issues": "https://github.com/discord-php/DiscordPHP/issues",
-                "source": "https://github.com/discord-php/DiscordPHP/tree/v10.4.3",
+                "source": "https://github.com/discord-php/DiscordPHP/tree/v10.4.7",
                 "wiki": "https://github.com/discord-php/DiscordPHP/wiki"
             },
             "funding": [
@@ -2981,7 +2981,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-03-23T02:12:15+00:00"
+            "time": "2025-04-09T17:06:16+00:00"
         },
         {
             "name": "trafficcophp/bytebuffer",
